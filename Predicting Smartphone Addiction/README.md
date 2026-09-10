@@ -627,7 +627,6 @@ predicting-smartphone-addiction/
 │
 ├── predicting-smartphone-addiction.ipynb
 ├── README.md
-├── train.csv
 ├── test.csv
 ├── sample_submission.csv
 └── submission.csv
